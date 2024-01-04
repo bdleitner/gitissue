@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="guava-30.0-jre_d607be28">
+    <CLASSES>
+      <root url="jar://D:/_bazel_out/gwgcjjep/execroot/gitissue/external/maven/v1/https/jcenter.bintray.com/com/google/guava/guava/30.0-jre/guava-30.0-jre.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
